@@ -1,28 +1,34 @@
 {
-    "income": 335,
-    "expenses": 23,
-    "income_history": [
-        [
-            200,
-            "02/24/2023, 17:08:30",
-            ""
-        ],
-        [
-            35,
-            "02/24/2023, 17:09:06",
-            "hallo"
-        ],
-        [
-            100,
-            "02/24/2023, 17:09:13",
-            "gelt"
-        ]
+  "<profile_name>": {
+    "total_monthly_income": 0,
+    "total_monthly_expenses": 0,
+    "current_monthly_expenses": [
+      {
+        "name": null,
+        "amount": null,
+        "category": null
+      }
     ],
-    "expenses_history": [
-        [
-            23,
-            "02/24/2023, 17:18:12",
-            "hallo"
-        ]
+    "current_monthly_income": [
+      {
+        "name": null,
+        "amount": null,
+        "category": null
+      }
+    ],
+    "single_income_history": [
+      {
+        "name": null,
+        "amount": null,
+        "category": null
+      }
+    ],
+    "single_expense_history": [
+      {
+        "name": null,
+        "amount": null,
+        "category": null
+      }
     ]
+  }
 }
